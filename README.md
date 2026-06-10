@@ -1,4 +1,4 @@
-# VMware VM Socket Connection Guide (Port 7777)
+# VMware VM Socket Connection Guide
 
 此專案用於建立及測試從**本機電腦（Host）**到**VMware虛擬機（Guest）**的 TCP Socket 連線。專案已將預設連接埠（Port）修改為 **`7777`**。
 
